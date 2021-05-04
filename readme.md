@@ -1,6 +1,6 @@
 # Hello, I'm Yaroslav Rogovich
 
-<img align="right" width="360px" src="./images/main-image-blob.png" />
+<img align="right" width="400px" src="./images/main-image-blob.png" />
 
 <p align="left">
   <a href="mailto:yrogovich@gmail.com">
@@ -25,7 +25,7 @@ Now studying: <strong>Next.js</strong>.
 
 I am open to cooperate as Frontend Developer.
 
-<img
-  width="440"
-  src="https://github-readme-stats.vercel.app/api?username=yrogovich&count_private=true&show_icons=true&custom_title=GitHub%20Status&hide=issues&title_color=FF941A&icon_color=FF941A&bg_color=ffffff00&text_color=222&hide_border=true"
+<img 
+   width="440"
+   src="https://github-readme-stats.vercel.app/api?username=yrogovich&count_private=true&show_icons=true&custom_title=GitHub%20Status&hide=issues&title_color=FF941A&icon_color=FF941A&bg_color=ffffff00&text_color=222&hide_border=true"
 />
