@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/-My%20Instagram-FF941A?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/just_yarik" />
   </a>
   <a href="https://www.facebook.com/yaroslav.rogovich">
-    <img src="https://img.shields.io/badge/-My%20Facebook-FF941A?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/yaroslav.rogovich" />
+    <img src="https://img.shields.io/badge/-My%20Facebook-FF941A?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/yrogovich" />
   </a>
 </p>
 
