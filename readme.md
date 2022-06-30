@@ -19,9 +19,7 @@
 
 I am a young developer specializing in JavaScript technologies. The main motto is "Learn something new". In pins you can find my projects. New projects are coming soon. Interesting projects at my work cannot be published under the NDA policy.
 
-Key skills: <strong>JavaScript (ES6+) | ReactJS | WordPress | HTML | CSS | NPM | MongoDB | Webpack.</strong>
-
-Now studying: <strong>Next.js</strong>.
+Key skills: <strong>JavaScript (ES6+) | Vue.js | WordPress | HTML | SCSS | GSAP | REST | SQL | MongoDB | Webpack.</strong>
 
 I am open to cooperate as Frontend Developer.
 <img 
