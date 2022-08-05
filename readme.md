@@ -1,4 +1,4 @@
-# Hello, I'm Yaroslav Rogovich
+# Howdy! I'm Yaro
 
 <img align="right" width="360px" src="./images/main-image-blob.png" />
 
@@ -17,11 +17,13 @@
   </a>
 </p>
 
-I am a young developer specializing in JavaScript technologies. The main motto is "Learn something new". In pins you can find my projects. New projects are coming soon. Interesting projects at my work cannot be published under the NDA policy.
+I'm 21. Was born in Belarus. Currently, I'm living in Poland. I have 4 years of web development experience. In my free time, I play the piano. I just love different keyboards. You know :)
 
-Key skills: <strong>JavaScript (ES6+) | Vue.js | WordPress | HTML | SCSS | GSAP | REST | SQL | MongoDB | Webpack.</strong>
+- 🏗️ Mostly focused on frontend web development
+- 💡 Experienced in backend and in creating REST APIs (PHP)
+- 🚧 Learning javascript as a backend technology
+- ✨ Always paying attention to details
 
-I am open to cooperate as Frontend Developer.
 <img 
    width="440"
    src="https://github-readme-stats.vercel.app/api?username=yrogovich&count_private=true&show_icons=true&custom_title=GitHub%20Status&hide=issues&title_color=FF941A&icon_color=FF941A&bg_color=ffffff00&text_color=222&hide_border=true"
