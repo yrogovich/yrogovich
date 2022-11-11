@@ -17,7 +17,7 @@
   </a>
 </p>
 
-I'm 21. Was born in Belarus. Currently, I'm living in Poland. I have 4 years of web development experience. In my free time, I play the piano. I just love different keyboards. You know :)
+I'm 21. Was born in Belarus. Currently, I'm living in Poland. I have 4 years of web development experience. Detail-oriented piano enjoyer with a taste of aestetic places.
 
 - 🏗️ Mostly focused on frontend web development
 - 💡 Experienced in backend and in creating REST APIs (PHP)
