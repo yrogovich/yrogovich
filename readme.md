@@ -1,7 +1,5 @@
 # Howdy! I'm Yaro
 
-<img align="right" width="360px" src="./images/main-image-blob.png" />
-
 <p align="left">
   <a href="mailto:yrogovich@gmail.com">
     <img src="https://img.shields.io/badge/-yrogovich@gmail.com-FF941A?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yrogovich@gmail.com" />
