@@ -15,7 +15,7 @@
   </a>
 </p>
 
-I'm 22. I live in Poland. I have 5 years of web development experience. Detail-oriented piano enjoyer with a taste of aesthetic places.
+I'm 22. I live in Poland. I have 5 years of web development experience. <br> Detail-oriented piano enjoyer with a taste of aesthetic places.
 
 - 🏗️ Mostly focused on frontend web development
 - 💡 Experienced in the backend and in creating REST APIs
