@@ -16,10 +16,10 @@ I'm 22 years old and based in Poland, with 5 years of commercial web development
 My strength sides in my attention to detail, particularly in visuals, animations, and micro-interactions. <br>
 If you have a stunning concept and need development assistance to bring it to life, feel free to <a href="mailto:aka@yaro.works">reach out to me</a>
 
-🏗️ Can help you choose the right technology for your project.
-🤖 Assist in planning complex and scalable projects.
-💡 Experienced in backend development and creating REST APIs.
-✨ Detail-oriented at all times.
+- 💡 Can help you choose the right technology for your project.
+- 💯 Assist in planning complex and scalable projects.
+- 🏗️ Experienced in backend development and creating REST APIs.
+- ✨ Detail-oriented at all times.
 
 Open to collaboration!
 
