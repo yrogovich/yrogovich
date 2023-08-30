@@ -1,8 +1,8 @@
-# Howdy! I'm Yaro
+# Howdy! I'm Yaro. Creative front-end developer
 
 <p align="left">
-  <a href="mailto:yrogovich@gmail.com">
-    <img src="https://img.shields.io/badge/-yrogovich@gmail.com-FF941A?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yrogovich@gmail.com" />
+  <a href="mailto:aka@yaro.works">
+    <img src="https://img.shields.io/badge/-aka@yaro.works-FF941A?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aka@yaro.works" />
   </a>
   <a href="https://www.linkedin.com/in/yaroslav-rogovich">
     <img src="https://img.shields.io/badge/-My%20LinkedIn-FF941A?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yaroslav-rogovich" />
@@ -10,17 +10,18 @@
   <a href="https://www.instagram.com/just_yarik">
     <img src="https://img.shields.io/badge/-My%20Instagram-FF941A?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/just_yarik" />
   </a>
-  <a href="https://www.facebook.com/yrogovich">
-    <img src="https://img.shields.io/badge/-My%20Facebook-FF941A?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/yrogovich" />
-  </a>
 </p>
 
-I'm 22. I live in Poland. I have 5 years of web development experience. <br> Detail-oriented piano enjoyer with a taste of aesthetic places.
+I'm 22 years old and based in Poland, with 5 years of commercial web development experience. <br>
+My strength sides in my attention to detail, particularly in visuals, animations, and micro-interactions. <br>
+If you have a stunning concept and need development assistance to bring it to life, feel free to <a href="mailto:aka@yaro.works">reach out to me</a>
 
-- 🏗️ Mostly focused on frontend web development
-- 💡 Experienced in the backend and in creating REST APIs
-- 🚧 Learning javascript as a backend technology
-- ✨ Always paying attention to details
+🏗️ Can help you choose the right technology for your project.
+🤖 Assist in planning complex and scalable projects.
+💡 Experienced in backend development and creating REST APIs.
+✨ Detail-oriented at all times.
+
+Open to collaboration!
 
 <img 
    width="440"
