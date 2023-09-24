@@ -18,7 +18,7 @@ If you have a stunning concept and need development assistance to bring it to li
 
 - 💡 Can help you to pick the right technology for your project.
 - 💯 Assist in planning complex and scalable projects.
-- 🏗️ Experienced in backend development and creating REST APIs.
+- 🏗️ Experienced in backend development and creating REST & GraphQl APIs.
 - ✨ Detail-oriented at all times.
 - 🛡️ Worked on websites requiring high levels of security
 
