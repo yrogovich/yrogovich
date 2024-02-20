@@ -7,9 +7,6 @@
   <a href="https://www.linkedin.com/in/yaroslav-rogovich">
     <img src="https://img.shields.io/badge/-My%20LinkedIn-FF941A?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yaroslav-rogovich" />
   </a>
-  <a href="https://www.instagram.com/just_yarik">
-    <img src="https://img.shields.io/badge/-My%20Instagram-FF941A?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/just_yarik" />
-  </a>
 </p>
 
 I'm based in Poland, with 5 years of commercial web development experience. <br>
