@@ -1,21 +1,7 @@
-# Howdy! I'm Yaro. Creative front-end developer
+# Howdy! I'm Yaro. Creative full-stack developer
 
-<p align="left">
-  <a href="mailto:aka@yaro.works">
-    <img src="https://img.shields.io/badge/-aka@yaro.works-FF941A?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aka@yaro.works" />
-  </a>
-  <a href="https://www.linkedin.com/in/yaroslav-rogovich">
-    <img src="https://img.shields.io/badge/-My%20LinkedIn-FF941A?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yaroslav-rogovich" />
-  </a>
-</p>
+Based in Poland, with over 6 years of experience in crafting scalable, user-focused solutions and fostering team collaboration. Dedicated to lifelong learning and possessing a strong foundation in TypeScript, Node.js, and React.js with proven track record in enhancing user engagement through innovative technology solutions. Committed to driving digital transformation and operational efficiency in dynamic, global environments.
 
-I'm based in Poland, with 5 years of commercial web development experience. <br>
-My strength sides in my attention to detail, particularly in visuals, animations, and micro-interactions. <br>
 If you have a stunning concept and need development assistance to bring it to life, feel free to <a href="mailto:aka@yaro.works">reach out to me</a>
 
 Open to collaboration!
-
-<img 
-   width="440"
-   src="https://github-readme-stats.vercel.app/api?username=yrogovich&count_private=true&show_icons=true&custom_title=GitHub%20Status&hide=issues&title_color=FF941A&icon_color=FF941A&bg_color=ffffff00&text_color=222&hide_border=true"
-/>
