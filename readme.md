@@ -1,7 +1,9 @@
-# Howdy! I'm Yaro. Creative full-stack developer
+# Hi, I'm Yaroslav 👋
 
-Based in Poland, with over 6 years of experience in crafting scalable, user-focused solutions and fostering team collaboration. Dedicated to lifelong learning and possessing a strong foundation in TypeScript, Node.js, and React.js with proven track record in enhancing user engagement through innovative technology solutions. Committed to driving digital transformation and operational efficiency in dynamic, global environments.
+I build things for the web and mobile. TypeScript and React are home, but AI lets me roam: I also tinker with Python and Swift.
 
-If you have a stunning concept and need development assistance to bring it to life, feel free to <a href="mailto:aka@yaro.works">reach out to me</a>
+I run a lot of experiments with AI: agents, automations and Claude Code / Codex workflows. Most end up in my day-to-day work, some end up here.
+
+Got an idea you want built, or just want to talk shop? Drop me a line at [yrogovich@gamil.com](mailto:yrogovich@gamil.com).
 
 Open to collaboration!
